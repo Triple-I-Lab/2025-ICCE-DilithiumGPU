@@ -58,10 +58,15 @@ across NIST security levels 2, 3, and 5 — enabling high-throughput, quantum-re
 If you reference this work, please cite:
 
 ```bibtex
-@inproceedings{nguyen2025gpu,
-  title={A GPU-Accelerated High-Performance Design for CRYSTALS-Dilithium Digital Signature},
+@INPROCEEDINGS{10929968,
   author={Nguyen, Hien and Cambou, Bertrand and Nguyen, Tuy Tan},
-  booktitle={IEEE International Conference on Consumer Electronics (ICCE)},
+  booktitle={2025 IEEE International Conference on Consumer Electronics (ICCE)}, 
+  title={A GPU-Accelerated High-Performance Design for CRYSTALS-Dilithium Digital Signature}, 
   year={2025},
-  organization={IEEE}
-}
+  month={11-14 Jan},
+  address={Las Vegas, NV, USA},
+  volume={},
+  number={},
+  pages={1-4},
+  doi={10.1109/ICCE63647.2025.10929968}}
+
